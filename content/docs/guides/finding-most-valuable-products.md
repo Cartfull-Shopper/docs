@@ -45,4 +45,3 @@ Whatever the case, this knowledge tells you what products to focus on. You can e
 ways to improve the product (like making the quality better or lowering the price) OR you
 may decide it's not a product worth having in the store. This can save you on costs for
 managing that product.
-- 
