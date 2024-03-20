@@ -6,7 +6,7 @@ in your store."
 date: 2024-03-04T18:56:31-08:00
 lastmod: 2024-03-04T18:56:31-08:00
 draft: false
-weight: 810
+weight: 1
 toc: true
 seo:
   title: "Monitor carts with Cartfull shopper" # custom title (optional)
