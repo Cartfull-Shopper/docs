@@ -42,7 +42,7 @@ and be knowledgable about what they are looking for. This is easy in brick-and-m
 stores where you interact with them in-person. Cartfull Shopper is the best tool for this
 in the digital world.
 
-![Monitor Active Carts in BigCommerce Store](/images/monitor-active-carts-bigcommerce.gif)
+![Monitor Active Carts in BigCommerce Store](/images/monitor-active-carts.png)
 
 ## Abandoned Carts
 Customers who abandoned their cart are still a valuable potential customer. They still have items
@@ -59,7 +59,7 @@ to target those users for your specific marketing campaign.
 
 The best way to learn more about your abandoned carts is by using our Insights.
 
-![Monitor Abandoned Carts in BigCommerce Store](/images/monitor-abandoned-carts-bigcommerce.gif)
+![Monitor Abandoned Carts in BigCommerce Store](/images/monitor-abandoned-carts.png)
 
 ## Insights
 You now have more insights at your disposal to learn more about active and abandoned
@@ -70,7 +70,7 @@ carts. You can learn things like:
 3. How many carts are being abandoned based on your specific time interval. Similar to the
    abandonment rate, how can you get this metric down?
 
-![Gain Insights on carts in BigCommerce store](/images/cart-insights-bigcommerce.png)
+![Gain Insights on carts in BigCommerce store](/images/monitor-cart-insights.png)
  
 ## More Coming!
 This is enough to get you started, but Cartfull Shopper will continue with more features

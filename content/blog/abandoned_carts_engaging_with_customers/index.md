@@ -68,7 +68,7 @@ If time is an issue, you can craft a message around a specific product instead o
 specific customer. With Cartfull Shopper, you can search abandoned carts by product and
 download a list of emails from there.
 
-![Monitor Abandoned Carts in BigCommerce Store](/images/monitor-abandoned-carts-bigcommerce.gif)
+![Monitor Abandoned Carts in BigCommerce Store](/images/monitor-abandoned-carts.png)
 
 #### Simplify the Checkout Process
 
