@@ -25,8 +25,8 @@ of carts these customers have purchased.
 All carts in Cartfull Shopper are only made available once you install the application.
 There is no current way to learn from BigCommerce all past carts.
 
-Depending on the plan you purchase, Cartfull Shopper only retains those carts for 6 months
-or up to 1 year.
+Depending on the plan you purchase, Cartfull Shopper only retains a limited number of
+carts. See our [pricing](https://www.cartfull-shopper.com/pricing) to learn more.
 
 {{< /callout >}}
 
