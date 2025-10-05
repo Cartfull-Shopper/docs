@@ -2,8 +2,8 @@
 title: "How to Work with Cart Nofitications"
 description: "Learn more about how to work with this powerful feature"
 summary: "Learn how to create and respond to notifications."
-date: 2024-05-06T21:37:51-07:00
-lastmod: 2024-05-06T21:37:51-07:00
+date: 2025-10-03T21:37:51-07:00
+lastmod: 2025-10-03T21:37:51-07:00
 draft: false
 weight: 999
 toc: true
@@ -27,7 +27,9 @@ and you'll see a "Create" button at the top.
 {{< callout context="tip" title="Modifying a Notification" icon="rocket" >}}
 
 Modifying a current notification is essentially creating a brand new one. If your
-notification is not meeting your needs, you can simply delete and create a new one.
+notification is not meeting your needs, you can simply delete and create a new one. Any
+deleted notifications will not be counted towards your max number of allowed
+notifications.
 
 {{< /callout >}}
 
@@ -83,7 +85,7 @@ in this notification.
 ## Per User
 Notifications are also per user - not per store.
 
-All stores can create up to 30 notifications per user.
+Plans start at 10 notifications per user.
 
 {{< callout context="note" title="Store Notifications" icon="info-icon" >}}
 

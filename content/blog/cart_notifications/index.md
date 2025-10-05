@@ -2,8 +2,8 @@
 title: "Cart Notifications"
 description: "Cartfull Shopper introduces cart notifications"
 summary: "Create custom notifications to be alerted right away about carts that meet specific criteria."
-date: 2024-05-06T21:20:47-07:00
-lastmod: 2024-05-06T21:20:47-07:00
+date: 2025-10-03T21:20:47-07:00
+lastmod: 2025-10-03T21:20:47-07:00
 draft: false
 weight: 50
 categories: ["Cart Notifications"]
